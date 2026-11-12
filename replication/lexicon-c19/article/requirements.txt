@@ -1,0 +1,8 @@
+# The command-line audit uses only the Python standard library.
+# These packages are optional for notebook exploration and figure regeneration.
+numpy>=1.25
+pandas>=2.2
+matplotlib>=3.8
+nbformat>=5.10
+nbclient>=0.10
+ipykernel>=6.29
